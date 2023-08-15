@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**ZHYxulei/ZHYxulei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![header]][home]  
+[![stats]][home]  
+[![language]][home]  
+[![genshin-image]][genshin-link]
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=徐大磊呀(ZHYxulei)&fontSize=60
+[stats]: https://github-readme-stats.vercel.app/api?username=ZHYxulei&locale=cn&show_icons=true&https://github-readme-stats.vercel.app/api?username=ZHYxulei&locale=cn&show_icons=true&include_all_commits=true&theme=transparentinclude_all_commits=true&theme=transparent
+[language]: https://github-readme-stats.vercel.app/api/top-langs?username=ZHYxulei&locale=cn&show_icons=true&theme=transparent&card_width=470
+[home]: https://github.com/ZHYxulei
+[genshin-image]: https://s2.loli.net/2023/01/20/IpDFvuqcebCiWXm.png
+[genshin-link]: https://enka.network/u/255291613
