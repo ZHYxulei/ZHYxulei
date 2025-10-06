@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.ZHYxulei.top"><img src="https://img.shields.io/badge/Blog-blog.ZHYxulei.top-0e75b6?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://blog.ZHYxulei.top"><img src="https://img.shields.io/badge/Blog-blog.ZHYxulei.top-0e75b6?style=flat-square&logo=netlify&logoColor=white" /></a>
   <a href="https://github.com/ZHYxulei"><img src="https://img.shields.io/github/followers/ZHYxulei?label=Followers&style=flat-square&color=blueviolet" /></a>
   <img src="https://komarev.com/ghpvc/?username=ZHYxulei&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
