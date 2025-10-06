@@ -1,53 +1,58 @@
-<h1 align="center">Hi 👋, I'm ZHYxulei</h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Open Source Enthusiast | 🎨 Designer at Heart</h3>
+<!-- ZHYxulei / GitHub Profile README -->
+
+<h1 align="center">👋 Hi there, I'm <a href="https://github.com/ZHYxulei">ZHYxulei</a></h1>
+<h3 align="center">💻 Full Stack Developer | 🌌 Tech Explorer | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZHYxulei&label=Profile%20views&color=0e75b6&style=flat" alt="ZHYxulei" /> 
-  <img src="https://img.shields.io/github/followers/ZHYxulei?label=Followers" alt="followers" />
+  <img src="https://q2.qlogo.cn/headimg_dl?dst_uin=2742291286&spec=5" width="120" height="120" style="border-radius:50%;" alt="avatar"/>
+</p>
+
+<p align="center">
+  <a href="https://blog.ZHYxulei.top"><img src="https://img.shields.io/badge/Blog-blog.ZHYxulei.top-0e75b6?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/ZHYxulei"><img src="https://img.shields.io/github/followers/ZHYxulei?label=Followers&style=flat-square&color=blueviolet" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ZHYxulei&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧩 About Me
 
-- 🔭 I’m currently working on **cool web projects & open-source tools**
-- 🌱 I’m learning **TypeScript, Rust, and AI-powered backend services**
-- 💬 Ask me about **React, Next.js, Node.js, or anything full-stack**
-- ⚡ Fun fact: I love creating smooth UI animations & minimalist designs.
+- 🧠 Currently focused on **Web development, AI integration, and DevOps automation**
+- 🌱 Learning **TypeScript**, **Next.js**, **Rust**, and **Kubernetes**
+- 💬 Ask me about **React / Node.js / Web Architecture**
+- 🪐 Personal blog → [blog.ZHYxulei.top](https://blog.ZHYxulei.top)
+- ⚡ Motto: *"Keep building. Keep learning. Keep evolving."*
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,docker,git,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,python,fastapi,docker,nginx,git,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZHYxulei&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZHYxulei&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZHYxulei&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZHYxulei&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZHYxulei&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZHYxulei&theme=react-dark&hide_border=true&bg_color=0D1117" alt="activity graph" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| 🧩 Project | ⭐ Description | 🔗 Link |
+| 🔧 Project | 🧠 Description | 🔗 Link |
 |------------|----------------|---------|
-| 🌐 Homepage | Personal dashboard powered by modern web tech | [View Repo](https://github.com/ZHYxulei/homepage) |
-| ⚙️ DevTools | A set of web developer productivity tools | [View Repo](https://github.com/ZHYxulei/devtools) |
-| 🎵 MusicPlay | A minimalist online music player | [View Repo](https://github.com/ZHYxulei/musicplay) |
+| 🌐 **Homepage** | Personal dashboard built with Next.js + TailwindCSS | [View Repo](https://github.com/ZHYxulei/homepage) |
+| ⚙️ **DevTools** | Developer utilities for productivity | [View Repo](https://github.com/ZHYxulei/devtools) |
+| 🎵 **MusicPlay** | Minimalist online music player | [View Repo](https://github.com/ZHYxulei/musicplay) |
 
 ---
 
@@ -55,8 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/ZHYxulei"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://blog.ZHYxulei.top"><img src="https://skillicons.dev/icons?i=vercel" /></a>
   <a href="mailto:yourmail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
@@ -65,9 +69,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZHYxulei/ZHYxulei/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/ZHYxulei/ZHYxulei/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — Cory House
+
+<p align="center">
+  <i>“Code is where art meets logic.”</i>  
+  <br/>✨ Powered by <a href="https://github.com/ZHYxulei">ZHYxulei</a>
+</p>
