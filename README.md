@@ -8,5 +8,5 @@
 
 [stats]: https://github-readme-stats.vercel.app/api?username=ZHYxulei&locale=cn&show_icons=true&include_all_commits=true&theme=transparentinclude_all_commits=true&theme=transparent
 [language]: https://github-readme-stats.vercel.app/api/top-langs?username=ZHYxulei&locale=cn&show_icons=true&theme=transparent&card_width=470
-[home]: https://github.com/ZHYxulei
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZHYxulei&theme=xcode" /> </div>
