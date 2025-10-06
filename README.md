@@ -2,7 +2,7 @@
 <div align='center'>
   
 [![stats]][home]
-[![language]][home] 
+[![language]][home]
 
 </div>
 
