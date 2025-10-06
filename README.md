@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,python,fastapi,docker,nginx,git,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,rust,express,python,fastapi,docker,nginx,git,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -60,16 +60,9 @@
 
 <p align="center">
   <a href="https://github.com/ZHYxulei"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://blog.ZHYxulei.top"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZHYxulei/ZHYxulei/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://space.bilibili.com/1102244282"><img src="https://skillicons.dev/icons?i=bilibili" /></a>
+  <a href="https://blog.ZHYxulei.top"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+  <a href="mailto:ZHYxulei@outlook.com"><img src="https://skillicons.dev/icons?i=outloook" /></a>
 </p>
 
 ---
