@@ -60,9 +60,9 @@
 
 <p align="center">
   <a href="https://github.com/ZHYxulei"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://space.bilibili.com/1102244282"><img src="https://skillicons.dev/icons?i=bilibili" /></a>
+  <a href="https://t.me/ZHYxulei"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   <a href="https://blog.ZHYxulei.top"><img src="https://skillicons.dev/icons?i=netlify" /></a>
-  <a href="mailto:ZHYxulei@outlook.com"><img src="https://skillicons.dev/icons?i=outloook" /></a>
+  <a href="mailto:ZHYxulei@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
