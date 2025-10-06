@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,rust,express,python,fastapi,docker,nginx,git,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,c,css,js,ts,react,nextjs,arch,debian,astro,cloudflare,vue,nodejs,rust,express,python,fastapi,docker,nginx,git,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -60,7 +60,6 @@
 
 <p align="center">
   <a href="https://github.com/ZHYxulei"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://t.me/ZHYxulei"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   <a href="https://blog.ZHYxulei.top"><img src="https://skillicons.dev/icons?i=netlify" /></a>
   <a href="mailto:ZHYxulei@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
