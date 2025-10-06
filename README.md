@@ -50,9 +50,9 @@
 
 | 🔧 Project | 🧠 Description | 🔗 Link |
 |------------|----------------|---------|
-| 🌐 **Homepage** | Personal dashboard built with Next.js + TailwindCSS | [View Repo](https://github.com/ZHYxulei/homepage) |
-| ⚙️ **DevTools** | Developer utilities for productivity | [View Repo](https://github.com/ZHYxulei/devtools) |
-| 🎵 **MusicPlay** | Minimalist online music player | [View Repo](https://github.com/ZHYxulei/musicplay) |
+| 🌐 **Lonely-Rock** | 使用Html与CSS创建的孤独摇滚壁纸 | [View Repo](https://github.com/ZHYxulei/Lonely-Rock) |
+| ⚙️ **SAF** | Fork自别的网站的烟花，可用于表白 | [View Repo](https://github.com/ZHYxulei/SAF) |
+| 🎵 **heart_beat** | 心跳效果，可用于表白 | [View Repo](https://github.com/ZHYxulei/heart_beat) |
 
 ---
 
