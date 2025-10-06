@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,c,css,js,ts,react,nextjs,arch,debian,astro,cloudflare,vue,nodejs,rust,express,python,fastapi,docker,nginx,git,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,c,css,js,ts,react,nextjs,arch,debian,astro,cmake,java,dotnet,electron,go,grafana,idea,cloudflare,vue,nodejs,rust,express,python,fastapi,jenkins,docker,nginx,git,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
