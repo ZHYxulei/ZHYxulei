@@ -51,8 +51,8 @@
 | 🔧 Project | 🧠 Description | 🔗 Link |
 |------------|----------------|---------|
 | 🌐 **Lonely-Rock** | 使用Html与CSS创建的孤独摇滚壁纸 | [View Repo](https://github.com/ZHYxulei/Lonely-Rock) |
-| ⚙️ **SAF** | Fork自别的网站的烟花，可用于表白 | [View Repo](https://github.com/ZHYxulei/SAF) |
-| 🎵 **heart_beat** | 心跳效果，可用于表白 | [View Repo](https://github.com/ZHYxulei/heart_beat) |
+| ⚙️ **StuPoint** | 使用Laravel制作的学校学生积分管理 | [View Repo](https://github.com/ZHYxulei/StuPoint) |
+| 🎵 **StuPoint_plugin_example** | StuPoint示例插件 | [View Repo](https://github.com/ZHYxulei/StuPoint_plugin_example) |
 
 ---
 
