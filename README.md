@@ -13,6 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=ZHYxulei&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="https://x.com/intent/follow?screen_name=ZHYxulei001"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&amp;logoColor=white" alt="X"></a>
+  <a href="https://space.bilibili.com/1102244282"><img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&amp;logoColor=fff" alt="Bilibili"></a>
+  <a href="https://t.me/ZHYxulei_messagebot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+  <a href="https://bsky.zhyxulei.top"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&amp;logoColor=fff" alt="Bluesky"></a>
+</p>
+
 ---
 
 ### 🧩 About Me
